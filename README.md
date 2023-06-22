@@ -1,2 +1,2 @@
 # My-First-Website
-Ny first project in Html and Css
+Ny first project in Html and CSS
